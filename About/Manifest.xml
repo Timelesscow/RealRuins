@@ -15,6 +15,6 @@
     <suggests>
     </suggests>
     <showCrossPromotions>false</showCrossPromotions>
-    <manifestUri>https://rawgit.com/dieworld/RealRuins/master/About/Manifest.xml</manifestUri>
+    <manifestUri>https://raw.githubusercontent.com/dieworld/RealRuins/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/dieworld/RealRuins/releases/latest</downloadUri>
 </Manifest>
